@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on an **E-Commerce Website**
 
-- 👯 I’m looking to collaborate on **Impactful project on Communities and Scalability**
+- 👯 I’m looking to collaborate on **Impactful project for Communities and Scalability**
 
 - 💬 Ask me about
-1. JavaScript
-2. TypeScript
-3. Express.js
-4. React.js
-5. Node.js
-6. Material UI
+  1. JavaScript
+  2. TypeScript
+  3. Express.js
+  4. React.js
+  5. Node.js
+  -- Material UI
 
-- 📫 How to reach me **aaron.constantm@gmail.com**
+- 📫 <h3>How to reach me</h3>: **aaron.constantm@gmail.com**
 
-- ⚡ Fun fact **I enjoy Tea, Working out, and Cycling**
+- ⚡ <h3>What I enjoy</h3>: **Tea (Figurative and Literal sense), Working out, Reading(Figurative and Literal sense), and Cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
