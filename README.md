@@ -8,12 +8,12 @@
 - 👯 I’m looking to collaborate on **Impactful project on Communities and Scalability**
 
 - 💬 Ask me about
-- JavaScript
-- TypeScript
-- Express.js
-- React.js
-- Node.js
-- Material UI
+1. JavaScript
+2. TypeScript
+3. Express.js
+4. React.js
+5. Node.js
+6. Material UI
 
 - 📫 How to reach me **aaron.constantm@gmail.com**
 
