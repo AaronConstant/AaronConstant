@@ -3,21 +3,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronconstant" alt="aaronconstant" /></a> </p>
 
-- 🔭 I’m currently working on an **E-Commerce Website**
+## 🔭 Current Project
+I'm currently working on an **E-Commerce Website**.
 
-- 👯 I’m looking to collaborate on **Impactful project for Communities and Scalability**
+## 👯 Collaboration Interests
+I'm excited to collaborate on **impactful projects for communities** and those focused on **scalability**.
 
-- <h3>💬 Ask me about </h3>
-  1. JavaScript
-  2. TypeScript
-  3. Express.js
-  4. React.js
-  5. Node.js
-  6. Material UI
+## 💬 Ask Me About
+- JavaScript  
+- TypeScript  
+- Express.js  
+- React.js  
+- Node.js  
+- Material UI
 
-- <h3>📫 How to reach me</h3> **aaron.constantm@gmail.com**
+## 📫 How to Reach Me
+**aaron.constantm@gmail.com**
 
-- <h3>⚡ What I enjoy</h3> **Tea (Figurative and Literal sense), Working out, Reading(Figurative and Literal sense), and Cycling**
+## ⚡ What I Enjoy
+**Tea** (in both the figurative and literal sense), **working out**, **reading** (again, both ways!), and **cycling**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
