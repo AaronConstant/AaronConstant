@@ -13,11 +13,11 @@
   3. Express.js
   4. React.js
   5. Node.js
-  -- Material UI
+  6. Material UI
 
-- 📫 <h3>How to reach me</h3>: **aaron.constantm@gmail.com**
+- 📫 <h3>How to reach me</h3> **aaron.constantm@gmail.com**
 
-- ⚡ <h3>What I enjoy</h3>: **Tea (Figurative and Literal sense), Working out, Reading(Figurative and Literal sense), and Cycling**
+- ⚡ <h3>What I enjoy</h3> **Tea (Figurative and Literal sense), Working out, Reading(Figurative and Literal sense), and Cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
