@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron Constant</h1>
 <h3 align="center">A passionate Full-Stack developer from NYC with an interest in the Cybersecurity Field.</h3>
 
+![F6141D84-5BA5-45DE-A113-17F2374B8458](https://github.com/user-attachments/assets/ce2c30db-16ee-472a-92d5-915e1ac352d4)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronconstant" alt="aaronconstant" /></a> </p>
 
 ## 🔭 Current Project
