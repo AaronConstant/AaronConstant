@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronconstant" alt="aaronconstant" /></a> </p>
 
 ## 🔭 Current Project
-I'm currently working on an **E-Commerce Website**.
+I'm currently working on an **Podcast Platform**.
 
 ## 👯 Collaboration Interests
 I'm excited to collaborate on **impactful projects for communities** and those focused on **scalability**.
